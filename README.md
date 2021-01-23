@@ -1,0 +1,4 @@
+# React Labirynth_AI
+
+React, Context/Hooks, Tailwind, TypeScript, modular, Single page app, local database, plugins, react-day-picker, Materials-UI, custom AI, scalability.
+React Website App where user can change direction (using wsad) and move (using e) box that represent the robot. Robot has identifier arrows that means the direction it will move when user click E. Robot leaves a trial behind him represented the path that he made in the labirynth. When he finish the level it restarts and let user choose next level. This website is high scalable with adding the new level designed by JSON files. It has custom made AI which make the robot always complete the labirynt without user interaction. App has also reset button that reset the position of robot and clears the map. User can freely change the level by clicking "select level" button. App using custom made animations and algorithms.

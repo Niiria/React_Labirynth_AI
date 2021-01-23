@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofia&display=swap');
+
+.stroke-black {
+  -webkit-text-stroke: 1px black;
+}
+
+.font-sofia {
+  font-family: 'Sofia', cursive;
+}
+
+.active {
+  text-shadow: 2px 2px 5px black;
+}
+
+.text-shadow {
+  text-shadow: 2px 2px 5px black;
+}
+
+.nav_background {
+  background: linear-gradient(
+    0deg,
+    rgba(144, 144, 144, 1) 15%,
+    rgba(64, 28, 28, 1) 98%
+  );
+}
+
+.labirynthBlock {
+  width: 20px;
+  height: 20px;
+}
